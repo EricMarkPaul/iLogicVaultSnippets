@@ -7,4 +7,4 @@ https://help.autodesk.com/view/INVNTOR/2024/ENU/?guid=33786554-75a9-06db-a868-b4
 Sample "Fishing Rod" files are from Inventor's Sample Files which can be found here </br>
 https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/3gnm93P9sPAWE6vndk7fjq.html
 
-The only changes to these files were adding the rules to the rod assembly and creating copies of the reels to apply colors. The attached zip contains only these minor changes from the original Fishing_Rod.zip samples from Autodesk.
+The only changes to these files were adding the rules to the rod assembly, 2 new User Parameters, and creating copies of the reels to apply colors. The attached zip contains only these minor changes from the original Fishing_Rod.zip samples from Autodesk.
